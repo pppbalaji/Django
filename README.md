@@ -1,4 +1,1 @@
-Django
-======
-
-MyFirstGitHub
+Django Article app
