@@ -1,1 +1,1 @@
-Django Article app
+Property listing app.
