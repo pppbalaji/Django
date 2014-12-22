@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block sidebar %}
+		<ul>
+			<li><a href="/articles/all">Articles</a></li>
+			
+		</ul>
+{% endblock %}
+
+{% block content %}
+
+
+<h1>{{ article.title }}</h1>
+<p>{{ article.body }}</p>
+{% if article.thumbnail %}
+<p><img src="/static/assets/uploaded_files(article.thumbnail}}"
+
+{% endif %}
+
+
+<p>{{article.likes}} people liked this article</a></p>
+<p><a href="/articles/like/{{article.id}}">Like</a></p>
+
+
+
+{% endblock %}

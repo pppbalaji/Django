@@ -1,0 +1,72 @@
+[
+{
+    "model": "article.article",
+    "pk": 1,
+    "fields": {
+        "likes": 13,
+        "body": "2 BHK Beauty Full \r\n2 BHK Beauty Full Apartmentsvvv2 BHK Beauty Full Apartmentsvvv2 BHK Beauty Full Apartmentsv2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments2 BHK Beauty Full Apartments",
+        "pub_date": "2014-07-15T11:54:11Z",
+        "title": "2 BHK in GOA"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 2,
+    "fields": {
+        "likes": 102,
+        "body": "Studio near Back Water",
+        "pub_date": "2014-07-09T06:52:07Z",
+        "title": "Studio in Kerala"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 3,
+    "fields": {
+        "likes": 5,
+        "body": "fch",
+        "pub_date": "2014-07-16T06:30:00Z",
+        "title": "gfch"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 4,
+    "fields": {
+        "likes": 15,
+        "body": "3 bed room apartments3 bed room apartments3 bed room apartments3 bed room apartments3 bed room apartments3 bed room apartments3 bed room apartments3 bed room apartmentsvv3 bed room apartments3 bed room apartments3 bed room apartments3 bed room apartments3 bed room apartmentsv3 bed room apartments3 bed room apartments3 bed room apartments3 bed room apartmentsvvvv3 bed room apartments3 bed room apartments",
+        "pub_date": "2014-07-15T11:39:55Z",
+        "title": "3 Bed Rooms apartment in spain"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 5,
+    "fields": {
+        "likes": 17,
+        "body": "Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments vvvvBeauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments vvvBeauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments vvBeauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments Beauty full two bed room apartments ",
+        "pub_date": "2014-07-16T12:32:22Z",
+        "title": "Studio Apartments"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 6,
+    "fields": {
+        "likes": 18,
+        "body": "Beauty Full Two bed room Apartment",
+        "pub_date": "2013-03-06T18:30:00Z",
+        "title": "2 Bed Room Apartments"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 7,
+    "fields": {
+        "likes": 17,
+        "body": "Check",
+        "pub_date": "2014-07-24T00:30:00Z",
+        "title": "London Holiday Rents"
+    }
+}
+]
